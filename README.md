@@ -1,2 +1,3 @@
-# ultra-marketplace-paz4
+# Ultra Marketplace Paz4
+
 A repository to test GitHub automation for issue management.
